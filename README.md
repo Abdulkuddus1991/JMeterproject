@@ -14,7 +14,7 @@ Performance testing project using Apache JMeter on the Restful Booker API. Inclu
 ## Prerequisites
 -	Java Runtime Environment (JRE) installed
 -	Latest Apache JMeter downloaded and configured
-## API Documentation [Restful booker Api Dcumentation](https://restful-booker.herokuapp.com/apidoc/index.html)
+## API Documentation [Restful Booker API Dcumentation](https://restful-booker.herokuapp.com/apidoc/index.html)
 ## Test Scenarios
 -	Load Test: 200 users, 15s ramp-up, 5 min duration
 -	Stress Test: Scale 100 → 500+ users

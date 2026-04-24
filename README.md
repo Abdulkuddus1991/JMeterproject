@@ -1,12 +1,12 @@
-##Restful Booker API Performance Testing
-##Overview
+## Restful Booker API Performance Testing
+## About this project
 Performance testing project using Apache JMeter on the Restful Booker API. Includes Load, Stress, and Endurance (Soak) testing to evaluate responsiveness, scalability, and stability under different traffic conditions.
-##Objectives
+## Objectives
 -	Measure API response times under load
 -	Identify breaking points under stress
 -	Validate long-term stability (soak tests)
 -	Detect bottlenecks and ensure SLA compliance
-##Tools & Technologies
+## Tools & Technologies
 •	Apache JMeter – performance testing framework
 •	Restful Booker API – target application
 •	CSV Data Set Config – parameterization

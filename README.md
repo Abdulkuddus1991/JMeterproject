@@ -24,6 +24,9 @@ Performance testing project using Apache JMeter on the Restful Booker API. Inclu
 -	Throughput (requests/sec)
 -	Error Rate (%)
 -	Active Threads
+## Metrics picture
+<img width="1920" height="1080" alt="Metrics 2026-04-24 174205" src="https://github.com/user-attachments/assets/21009f48-6f20-4048-9790-0c3f2cc12f3e" />
+
 ## Reports
 Generates HTML reports with:
 -	Response Time Graphs

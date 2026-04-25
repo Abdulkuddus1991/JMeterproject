@@ -33,4 +33,12 @@ Generates HTML reports with:
 -	Throughput trends
 -	Error %
 -	Active Threads
+## Reports pictures
+<img width="960" height="540" alt="HTML REPORT1 163045" src="https://github.com/user-attachments/assets/24c4059b-f70a-41fb-9036-0ebf61e9031f" />
+<img width="960" height="540" alt="HTML REPORT4 2026-04-25 163458" src="https://github.com/user-attachments/assets/eac0ef36-ae37-4849-9ed3-418e91877d9a" />
+<img width="960" height="540" alt="HTML REPORT3 163349" src="https://github.com/user-attachments/assets/c3d4db62-1012-4635-afdf-f59552e20333" />
+<img width="960" height="540" alt="HTML REPORT2 163231" src="https://github.com/user-attachments/assets/85ac6fad-d214-4a3d-8a81-58c7147ab2a8" />
+
+
+  
 
